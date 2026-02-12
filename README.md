@@ -1,6 +1,6 @@
 # Internal-Security-Audit-NIST
 
-# Internal Security Audit: Botium Toys (NIST CSF)
+## Internal Security Audit: Botium Toys (NIST CSF)
 
 ## Objective
 To perform an internal security audit for a fictional company to identify risks and ensure compliance with NIST CSF standards.
